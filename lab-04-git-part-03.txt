@@ -154,8 +154,9 @@ hello.sh
 
 It should work now!  What is the output?
 ----------
-
-
+ent-v314-015:lab04-version-control student$ cd /
+ent-v314-015:/ student$ hello.sh
+hi there!
 ==========
 18.  Save this file in the repository that you created from parts 1 and 2.
 
