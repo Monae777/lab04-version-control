@@ -145,6 +145,9 @@ echo $PATH
 Write down the output of the last command.  It should include your home folder.
 ----------
 /opt/local/bin:/Applications/anaconda/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/mysql/bin/:/Users/student/
+
+/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/CARLOS/professor
+
 ==========
 17.  Go back to root (/)
 
